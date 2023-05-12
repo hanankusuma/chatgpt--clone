@@ -1,0 +1,145 @@
+.satu {
+    width: 255px;
+    height: 660px;
+    background-color: rgb(30, 30, 33);
+    float: left;
+    padding: 50px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.text-center {
+    padding-top: 40px;
+    margin-right: 150px;
+  }
+  .dua {
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    height: 60px;
+    margin-left: 0px;
+    opacity: 0.8;
+  
+
+  }
+  .bi {
+    margin-left: 620px;
+    margin-top: -30px;
+  }
+  .row1 {
+    margin-left: 360px;
+    margin-top: 55px;
+  }
+.tiga {
+  transform: translateX(-55px);
+}
+.empat {
+  transform: translateX(-55px);
+}
+.lima {
+  transform: translateX(-55px);
+}
+.enam {
+  transform: translateX(-55px);
+}
+.tujuh {
+  transform: translateX(-55px);
+}
+.delapan {
+  transform: translateX(-55px);
+}
+.sembilan {
+  transform: translateX(-55px);
+}
+.sepuluh {
+  transform: translateX(-55px);
+}
+.sebelas {
+  transform: translateX(-55px);
+}
+.duabelas {
+  color:rgb(255, 255, 255);
+}
+.tiga, .empat, .lima, .enam, .tujuh, .delapan, .sembilan, .sepuluh, .sebelas {
+  margin-bottom: 15px !important; /* mengurangi margin bawah */
+  padding: 14px 15px !important; /* mengurangi padding */
+}
+.btn {
+  margin-top: -59px;
+  margin-left: -30px;
+}
+.tigabelas {
+  color: white;
+}
+.bi2 {
+  color: white;
+}
+.empatbelas {
+  color: white;
+}
+.bi3 {
+  color: white;
+}
+.limabelas {
+  color: white;
+}
+.enambelas {
+  color: white;
+}
+.tujuhbelas {
+  margin-left: -5px;
+  margin-bottom: -0px;
+  color: white;
+}
+.delapanbelas {
+  background-color: rgba(255, 255, 255, 0.283);
+  color: rgb(36, 36, 40);
+  width: 500px;
+  height: 1px;
+  margin-left: -40px;
+  margin-top: 150px;
+}
+.bi4 {
+  color: white;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.duapuluh {
+  color: white;
+  margin-left: -2px;
+ margin-top: -20px;
+}
+.bi5 {
+  color: white;
+  margin-left: -30px;
+  margin-top: 10px;
+}
+.duasatu {
+  color: white;
+  margin-top: -20px;
+}
+.duadua {
+  color: white;
+  margin-top: -20px;
+}
+.bi6 {
+  color: white;
+  margin-left: -30px;
+  margin-top: 10px;
+}
+.btn-warning {
+  margin-left: 145px;
+  margin-top: -355px;
+  width: 40px;
+  height: 20px;
+}
+.duatiga {
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.tigabelas, .empatbelas, .limabelas, .enambelas
+.bi2 {
+  margin-top: -0px;
+  margin-left: -30px;
+}
